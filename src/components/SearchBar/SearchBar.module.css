@@ -1,0 +1,33 @@
+
+.buscar {
+
+padding: 0;
+padding-left: 0%;
+
+margin: 30px;
+margin-right: 0%;
+background: black;
+color: white;
+  
+}
+
+.inputCompleto {
+
+    display: flex;
+    justify-content: right;
+}
+
+.button{
+
+   
+    margin: 30px;
+    background: black;
+    color: white; 
+   
+}
+
+.button:hover {
+
+    background-color: white;
+    color: black;
+}
